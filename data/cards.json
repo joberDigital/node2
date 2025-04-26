@@ -1,0 +1,14 @@
+[
+  {
+    "id": "card-001",
+    "title": "Tarjeta Uno",
+    "description": "Descripción de la primera tarjeta",
+    "image": "https://lh3.googleusercontent.com/d/1UFsJjR52xLZbk5mR9EPNK1CHpaKDOSh2"
+  },
+  {
+    "id": "card-002",
+    "title": "Tarjeta Dos",
+    "description": "Descripción de la segunda tarjeta",
+    "image": "https://lh3.googleusercontent.com/d/1nM2E4HYA7Rus52G4q8mN2rgVhz_k59Fz"
+  }
+]
